@@ -9,13 +9,13 @@ markdown: kramdown
 
 # The title and tagline is showed on homepage
 #
-title :  Simpleyyt 
-tagline: Yitao's Blog
+title :  Seㅈoong
+tagline: 
 
 # Information about author
 #
 author :
-  name : Yitao Yao
+  name : Seㅈoong
   
 # Information for contacts showed at on the footer
 #
@@ -125,9 +125,9 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : duoshuo
+    provider :  
     duoshuo :
-      short_name : simpleyyt
+      short_name : 
     disqus :
       short_name : simpleyyt
     livefyre :
@@ -174,3 +174,4 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
+  

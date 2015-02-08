@@ -4,7 +4,7 @@ title: About Me
 header: About Me
 group: navigation
 ---
- * **Name:** Yitao Yao
- * **Email:** [simpleyyt@gmail.com](mailto:simpleyyt@gmail.com)
- * **WeiBo:** [摇一摇SimpleLife](http://www.weibo.com/u/1836017133)
- * **Github:** [Simpleyyt](https://github.com/Simpleyyt)
+ * **Name:** park sejoong
+ * **Email:** [sejoong@nhnent.com](mailto:sejoong@nhnent.com)
+ * **Company:** [NHN Entertainment / 토끼TF](http://www.nhnent.com/ko/index.nhn)
+ * **Github:** [sejoong_github](https://github.com/sejoong)
